@@ -1,0 +1,15 @@
+﻿  dllmain.cpp
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(30): warning C4311: 'type cast': pointer truncation from 'void (__cdecl *)(SOCKET,const char *,int,int)' to 'DWORD'
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(30): warning C4302: 'type cast': truncation from 'void (__cdecl *)(SOCKET,const char *,int,int)' to 'DWORD'
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(30): warning C4312: 'type cast': conversion from 'DWORD' to '_origSend (__cdecl *)' of greater size
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(59): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(59): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(63): warning C4312: 'type cast': conversion from 'DWORD' to 'PIMAGE_DOS_HEADER' of greater size
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(70): warning C4312: 'type cast': conversion from 'unsigned long' to 'PIMAGE_OPTIONAL_HEADER' of greater size
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(83): warning C4312: 'type cast': conversion from 'unsigned long' to 'PIMAGE_IMPORT_DESCRIPTOR' of greater size
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(86): warning C4312: 'type cast': conversion from 'unsigned long' to 'PIMAGE_THUNK_DATA' of greater size
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(90): warning C4312: 'type cast': conversion from 'unsigned long' to 'char *' of greater size
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(92): warning C4312: 'type cast': conversion from 'unsigned long' to 'PDWORD' of greater size
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(110): warning C4715: 'hookIAT': not all control paths return a value
+  HookSend.vcxproj -> C:\Users\wb\Documents\Visual Studio 2017\Projects\HookSend\x64\Debug\HookSend.dll
+  HookSend.vcxproj -> C:\Users\wb\Documents\Visual Studio 2017\Projects\HookSend\x64\Debug\HookSend.pdb (Partial PDB)

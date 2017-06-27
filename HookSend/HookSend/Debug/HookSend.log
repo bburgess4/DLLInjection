@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+c:\users\wb\documents\visual studio 2017\projects\hooksend\hooksend\dllmain.cpp(119): warning C4715: 'hookIAT': not all control paths return a value
+  HookSend.vcxproj -> C:\Users\wb\Documents\Visual Studio 2017\Projects\HookSend\Debug\HookSend.dll
+  HookSend.vcxproj -> C:\Users\wb\Documents\Visual Studio 2017\Projects\HookSend\Debug\HookSend.pdb (Partial PDB)

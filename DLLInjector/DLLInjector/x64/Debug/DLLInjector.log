@@ -1,0 +1,4 @@
+﻿  DLLInjector.cpp
+c:\users\wb\documents\visual studio 2017\projects\dllinjector\dllinjector\dllinjector.cpp(16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DLLInjector.vcxproj -> C:\Users\wb\documents\visual studio 2017\Projects\DLLInjector\x64\Debug\DLLInjector.exe
+  DLLInjector.vcxproj -> C:\Users\wb\documents\visual studio 2017\Projects\DLLInjector\x64\Debug\DLLInjector.pdb (Partial PDB)
